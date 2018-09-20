@@ -1,0 +1,5 @@
+package prs.business;
+
+public class User {
+
+}

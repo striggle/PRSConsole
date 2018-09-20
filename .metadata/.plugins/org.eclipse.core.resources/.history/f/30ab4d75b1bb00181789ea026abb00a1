@@ -1,0 +1,7 @@
+package prs.business;
+
+
+
+public class PurchaceRequest {
+
+}
